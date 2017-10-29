@@ -9,7 +9,7 @@ package zhujie;
 public class UserEntity extends Object {
 
     /**
-     * hello
+     * hello 对方是否
      * @return
      */
     @Override
