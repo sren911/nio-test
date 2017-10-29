@@ -8,7 +8,10 @@ package zhujie;
  */
 public class UserEntity extends Object {
 
-
+    /**
+     * hello
+     * @return
+     */
     @Override
     public String toString() {
         return super.toString();
